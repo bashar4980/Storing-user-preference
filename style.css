@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+   padding: 2% 4%;
+   text-align: center;
+}
+.container select{
+    margin-bottom: 10px ;
+    text-align: center;
+}
+#mainContent{
+   font-size: 20px;
+   text-transform: capitalize;
+   text-align: justify;
+
+}
